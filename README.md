@@ -1,4 +1,4 @@
-# ResNet18-Drawing-Digits-Recognition-edit
+# ResNet18-Drawing-Digits-Recognition-MNIST
 This project explores training a ResNet18 model from scratch for digit classification, combined with a user interface for drawing digits. Users can interact with the program by drawing digits on a canvas, and the trained model predicts the most likely corresponding digit based on the drawn image.
 
 ## Functionality
