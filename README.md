@@ -8,3 +8,4 @@ Digit Preprocessing: When the user finishes drawing, the drawn pixels are conver
 Model Training: The ResNet18 model defined in cnn.py is trained from scratch using the MNIST dataset for digit classification.
 Model Evaluation and Prediction: After training, the model is evaluated on a separate test set from the MNIST dataset. It also predicts digits based on user drawings using the processed image data.
 Prediction Visualization: The predicted digit is displayed alongside the drawn image, providing feedback to the user.
+![תמונה1](https://github.com/nick860/ResNet18-Drawing-Digits-Recognition--MNIST-/assets/55057278/ea3982ab-c3db-431d-8030-ccbbb3f3fb80)
